@@ -1,0 +1,20 @@
+{
+  "files": {
+    "public/games.css": [
+      {
+        "id": "6e0f7b81-ddc9-45ea-88cb-d4a35adb387d",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "public/settings/index.js": [
+      {
+        "id": "aafdc06b-99e4-4067-bbb9-e360493d5518",
+        "line": 3,
+        "version": 1206,
+        "index": 750
+      }
+    ]
+  }
+}
