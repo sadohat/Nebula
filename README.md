@@ -3,7 +3,7 @@ Open Source proxy that bypasses web filters, supports many sites. In short, it's
 
 # Deploying
 
-<a href="https://github.com/GreenyDEV/Nebula-Nebula"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
+<a href="https://repl.it/github/GreenyDEV/Nebula-Nebula"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
 
 # Supports
 - Any static site
