@@ -1,5 +1,5 @@
 # Instant Deploy To Repl
-Instant deploy to repl, just run npm install in console and then run. The GreenyDEV/Nebula-Nebula doesn't have the proper config so it is very hard to setup if you don't know what your doing. Also prefix is changed to bypass keyword blocking.
+Instant deploy to repl, just run npm install in console and then run. The GreenyDEV/Nebula-Nebula doesn't have the proper config so it is very hard to setup if you don't know what your doing. 
 
 # Nebula Proxy
 Open Source proxy that bypasses web filters, supports many sites. In short, it's an enhanced alloy proxy to make it run much faster and smoother, with extra support for sites + exploits. I call this edited verison of Alloy, "Harmony." I believe Alloy had potential and Nebula is here to prove that.
