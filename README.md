@@ -1,4 +1,4 @@
-#Instant Deploy To Repl
+# Instant Deploy To Repl
 Instant deploy to repl, just run npm install in console and then run. The GreenyDEV/Nebula-Nebula doesn't have the proper config so it is very hard to setup if you don't know what your doing. Also prefix is changed to bypass keyword blocking.
 
 # Nebula Proxy
